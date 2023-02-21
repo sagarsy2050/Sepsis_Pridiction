@@ -1,7 +1,7 @@
-#** Sepsis_Pridiction**
+ #Sepsis_Pridiction
  About this file
 ID: number to represent patient ID
-PRG: Plasma glucose
+PRG: Plasma glucose 
 PL: Blood Work Result-1 (mu U/ml)
 PR: Blood Pressure (mm Hg)
 SK: Blood Work Result-2 (mm)
